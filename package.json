@@ -19,7 +19,7 @@
   "author": "Marten de Vries",
   "dependencies": {
     "couchdb-objects": "^1.0.0",
-    "couchdb-render": "^1.0.0",
+    "couchdb-render": "^1.0.1",
     "pouchdb-req-http-query": "^1.0.0",
     "promise-nodify": "^1.0.0",
     "pouchdb-promise": "^0.0.0",
