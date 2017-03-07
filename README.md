@@ -1,6 +1,8 @@
 pouchdb-show
 ============
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/pouchdb/pouchdb-show.svg)](https://greenkeeper.io/)
+
 [![Build Status](https://travis-ci.org/pouchdb/pouchdb-show.svg?branch=master)](https://travis-ci.org/pouchdb/pouchdb-show)
 [![Dependency Status](https://david-dm.org/pouchdb/pouchdb-show.svg)](https://david-dm.org/pouchdb/pouchdb-show)
 [![devDependency Status](https://david-dm.org/pouchdb/pouchdb-show/dev-status.svg)](https://david-dm.org/pouchdb/pouchdb-show#info=devDependencies)
